@@ -53,5 +53,7 @@
 </div>
 
 <div align="center">
-<img src="https://giphy.com/gifs/pixelart-aesthetic-8cris-UvQV4fOeQlSiFNG3rk" width="1200"/>
+    <img 
+      src="https://github.com/Ttejas09/Ttejas09/blob/main/ezgif-2f1bf14cd9a0ec.gif" width="1200"
+    />
 </div>
