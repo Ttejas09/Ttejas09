@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG16NmF2djI5NGh2ZGI0eXN2aDN0ejlweGgzYm83bTExenE5Z2RhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0l6hO/giphy.gif" width="600"/>
+  <img src="https://github.com/Ttejas09/Ttejas09/blob/main/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" width="1200"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi!+I+am+Tejas+Tajane;OPEN+SOURCE;CODING;AIML)](https://git.io/typing-svg)
@@ -14,9 +14,9 @@
 
 ### 🛠️ My Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,git,github,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,git,github,vscode&perline=10" />
   </a>
 </p>
 
@@ -50,4 +50,8 @@
   <code>01010100 01100101 01101010 01100001 01110011</code>
 </p>
 
+</div>
+
+<div align="center">
+<img src="https://giphy.com/gifs/pixelart-aesthetic-8cris-UvQV4fOeQlSiFNG3rk" width="1200"/>
 </div>
